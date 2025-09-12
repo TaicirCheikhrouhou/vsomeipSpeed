@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/server.dir/server.cpp.o -o server   -L/home/taicir/vsomeip/install/lib  -Wl,-rpath,/home/taicir/vsomeip/install/lib -lvsomeip3 -lpthread 

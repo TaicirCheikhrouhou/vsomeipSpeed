@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/client1.dir/client1.cpp.o -o client1   -L/home/taicir/vsomeip/install/lib  -Wl,-rpath,/home/taicir/vsomeip/install/lib -lvsomeip3 -lpthread 
